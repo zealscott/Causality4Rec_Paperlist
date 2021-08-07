@@ -8,7 +8,7 @@ This is a list of top papers about causality and bias in recommender system
 - [Dataset](#dataset)
 - [Causality in Computer Vision](#Causality-in-Computer-Vision)
 - [Causality in NLP](#Causality-in-NLP)
-- [Causality in Recommender System](#Causality-in-Recommende- System)
+- [Causality in Recommender System](#Causality-in-Recommende-System)
   - [Popularity Bias](#Popularity-Bias)
 
 
@@ -31,4 +31,5 @@ This is a list of top papers about causality and bias in recommender system
 
 * [Disentangling User Interest and Conformity for Recommendation with Causal Embedding](https://arxiv.org/abs/2006.11011) (WWW 21)
 * [Causal Intervention for Leveraging Popularity Bias in Recommendation](https://arxiv.org/abs/2105.06067) (SIGIR 21)
+* [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (KDD 21)
 
