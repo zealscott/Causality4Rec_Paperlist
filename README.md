@@ -6,6 +6,7 @@ This is a list of top papers about causal inference and bias problem in recommen
 
 - [Survey paper](#Survey-Paper)
 - [Dataset](#dataset)
+- [Robust Learning](#Robust-Learning)
 - [Causality in Computer Vision](#Causality-in-Computer-Vision)
 - [Causality in NLP](#Causality-in-NLP)
 - [Causality in Recommender System](#Causality-in-Recommende-System)
@@ -21,7 +22,10 @@ This is a list of top papers about causal inference and bias problem in recommen
 
 ## Dataset
 
-## Knowledge Graph
+## Robust Learning
+
+* [Learning to Reweight Examples for Robust Deep Learning](https://proceedings.mlr.press/v80/ren18a/ren18a.pdf) (ICML 18)
+* [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://proceedings.neurips.cc/paper/2020/file/1091660f3dff84fd648efe31391c5524-Paper.pdf) (NIPS 20)
 
 ## Causality in Computer Vision
 
