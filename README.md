@@ -25,7 +25,10 @@ This is a list of top papers about causal inference and bias problem in recommen
 ## Robust Learning
 
 * [Learning to Reweight Examples for Robust Deep Learning](https://proceedings.mlr.press/v80/ren18a/ren18a.pdf) (ICML 18)
+
 * [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://proceedings.neurips.cc/paper/2020/file/1091660f3dff84fd648efe31391c5524-Paper.pdf) (NIPS 20)
+
+* [ESAM: Discriminative domain adaptation with non-displayed items to improve long-tail performance](https://dl.acm.org/doi/abs/10.1145/3397271.3401043)(SIGIR 20)
 
 ## Causality in Computer Vision
 
