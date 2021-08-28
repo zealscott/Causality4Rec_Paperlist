@@ -52,3 +52,7 @@ This is a list of top papers about causal inference and bias problem in recommen
 * [Causal Intervention for Leveraging Popularity Bias in Recommendation](https://arxiv.org/abs/2105.06067) (SIGIR 21)
 * [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (KDD 21)
 
+### Selection Bias
+
++ [Asymmetric tri-training for unsupervised domain adaptation](http://proceedings.mlr.press/v70/saito17a/saito17a.pdf) (ICML 17)
+
