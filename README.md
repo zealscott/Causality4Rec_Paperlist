@@ -46,6 +46,8 @@ This is a list of top papers about causal inference and bias problem in recommen
 
 * [Causal Inference for Recommendation](https://dawenl.github.io/publications/LiangCB16-causalrec.pdf) (UAI 16)
 
+* [Causal inference for recommender systems](https://dl.acm.org/doi/abs/10.1145/3383313.3412225) (RecSys 20)
+
 ### Popularity Bias
 
 * [Disentangling User Interest and Conformity for Recommendation with Causal Embedding](https://arxiv.org/abs/2006.11011) (WWW 21)
