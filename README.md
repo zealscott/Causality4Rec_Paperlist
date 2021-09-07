@@ -13,6 +13,8 @@ This is a list of top papers about causal inference and bias problem in recommen
   - [Loop Effect](#Loop-Effect)
   - [Exposure Bias](#Exposure-Bias)
   - [Popularity Bias](#Popularity-Bias)
+  - [Selection Bias](#Selection-Bias)
+  - [Misc](#Misc)
 
 
 
@@ -28,7 +30,6 @@ This is a list of top papers about causal inference and bias problem in recommen
 
 * [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://proceedings.neurips.cc/paper/2020/file/1091660f3dff84fd648efe31391c5524-Paper.pdf) (NIPS 20)
 
-* [ESAM: Discriminative domain adaptation with non-displayed items to improve long-tail performance](https://dl.acm.org/doi/abs/10.1145/3397271.3401043)(SIGIR 20)
 
 ## Causality in Computer Vision
 
@@ -40,6 +41,7 @@ This is a list of top papers about causal inference and bias problem in recommen
 
 * [Causal Embeddings for Recommendation](https://arxiv.org/abs/1706.07639) (RecSys18)
 * [A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data](https://dl.acm.org/doi/10.1145/3397271.3401083) (SIGIR20)
+* [ESAM: Discriminative domain adaptation with non-displayed items to improve long-tail performance](https://dl.acm.org/doi/abs/10.1145/3397271.3401043) (SIGIR 20)
 * [AutoDebias: Learning to Debias for Recommendation](https://arxiv.org/abs/2105.04170) (SIGIR21)
 
 ### Exposure Bias
@@ -64,5 +66,8 @@ This is a list of top papers about causal inference and bias problem in recommen
 + [Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback](https://dl.acm.org/doi/abs/10.1145/3397271.3401114) (SIGIR 20)
 + [Enhanced Doubly Robust Learning for Debiasing Post-click Conversion Rate Estimation](https://arxiv.org/abs/2105.13623) (SIGIR 21)
 
+### Misc
 
+* [Counterfactual Explanations for Neural Recommenders](https://arxiv.org/abs/2105.05008) (SIGIR 21)
+* [CauseRec: Counterfactual User Sequence Synthesis for Sequential Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462908) (SIGIR 21)
 
