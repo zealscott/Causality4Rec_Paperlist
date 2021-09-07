@@ -51,8 +51,12 @@ This is a list of top papers about causal inference and bias problem in recommen
 ### Popularity Bias
 
 * [Disentangling User Interest and Conformity for Recommendation with Causal Embedding](https://arxiv.org/abs/2006.11011) (WWW 21)
+
 * [Causal Intervention for Leveraging Popularity Bias in Recommendation](https://arxiv.org/abs/2105.06067) (SIGIR 21)
+
 * [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (KDD 21)
+
+* [Popularity-Opportunity Bias in Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3437963.3441820) (WSDM 21)
 
 ### Selection Bias
 
