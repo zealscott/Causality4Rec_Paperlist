@@ -9,6 +9,7 @@ This is a list of top papers about causal inference and bias problem in recommen
 - [Robust Learning](#Robust-Learning)
 - [Causality in Computer Vision](#Causality-in-Computer-Vision)
 - [Causality in NLP](#Causality-in-NLP)
+- [Causality in Graph](#Causality-in-Graph)
 - [Causality in Recommender System](#Causality-in-Recommende-System)
   - [Loop Effect](#Loop-Effect)
   - [Exposure Bias](#Exposure-Bias)
@@ -35,14 +36,17 @@ This is a list of top papers about causal inference and bias problem in recommen
 
 ## Causality in NLP
 
+## Causality in Graph
+
 ## Causality in Recommender System
 
 ### Loop Effect
 
 * [Causal Embeddings for Recommendation](https://arxiv.org/abs/1706.07639) (RecSys18)
-* [A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data](https://dl.acm.org/doi/10.1145/3397271.3401083) (SIGIR20)
+* [A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data](https://dl.acm.org/doi/10.1145/3397271.3401083) (SIGIR 20)
 * [ESAM: Discriminative domain adaptation with non-displayed items to improve long-tail performance](https://dl.acm.org/doi/abs/10.1145/3397271.3401043) (SIGIR 20)
-* [AutoDebias: Learning to Debias for Recommendation](https://arxiv.org/abs/2105.04170) (SIGIR21)
+* [AutoDebias: Learning to Debias for Recommendation](https://arxiv.org/abs/2105.04170) (SIGIR 21)
+* [Deconfounded Recommendation for Alleviating Bias Amplification](https://arxiv.org/pdf/2105.10648) (KDD 21)
 
 ### Exposure Bias
 
