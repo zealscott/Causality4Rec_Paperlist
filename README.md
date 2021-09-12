@@ -28,7 +28,6 @@ This is a list of top papers about causal inference and bias problem in recommen
 ## Robust Learning
 
 * [Learning to Reweight Examples for Robust Deep Learning](https://proceedings.mlr.press/v80/ren18a/ren18a.pdf) (ICML 18)
-
 * [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://proceedings.neurips.cc/paper/2020/file/1091660f3dff84fd648efe31391c5524-Paper.pdf) (NIPS 20)
 
 
@@ -51,27 +50,24 @@ This is a list of top papers about causal inference and bias problem in recommen
 ### Exposure Bias
 
 * [Causal Inference for Recommendation](https://dawenl.github.io/publications/LiangCB16-causalrec.pdf) (UAI 16)
-
 * [Causal inference for recommender systems](https://dl.acm.org/doi/abs/10.1145/3383313.3412225) (RecSys 20)
 
 ### Popularity Bias
 
 * [Disentangling User Interest and Conformity for Recommendation with Causal Embedding](https://arxiv.org/abs/2006.11011) (WWW 21)
-
 * [Causal Intervention for Leveraging Popularity Bias in Recommendation](https://arxiv.org/abs/2105.06067) (SIGIR 21)
-
 * [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (KDD 21)
-
 * [Popularity-Opportunity Bias in Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3437963.3441820) (WSDM 21)
 
 ### Selection Bias
 
-+ [Asymmetric tri-training for unsupervised domain adaptation](http://proceedings.mlr.press/v70/saito17a/saito17a.pdf) (ICML 17)
-+ [Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback](https://dl.acm.org/doi/abs/10.1145/3397271.3401114) (SIGIR 20)
-+ [Enhanced Doubly Robust Learning for Debiasing Post-click Conversion Rate Estimation](https://arxiv.org/abs/2105.13623) (SIGIR 21)
+* [Asymmetric tri-training for unsupervised domain adaptation](http://proceedings.mlr.press/v70/saito17a/saito17a.pdf) (ICML 17)
+* [Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback](https://dl.acm.org/doi/abs/10.1145/3397271.3401114) (SIGIR 20)
+* [Enhanced Doubly Robust Learning for Debiasing Post-click Conversion Rate Estimation](https://arxiv.org/abs/2105.13623) (SIGIR 21)
 
 ### Misc
 
 * [Counterfactual Explanations for Neural Recommenders](https://arxiv.org/abs/2105.05008) (SIGIR 21)
 * [CauseRec: Counterfactual User Sequence Synthesis for Sequential Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462908) (SIGIR 21)
+* [Should Graph Convolution Trust Neighbors? A Simple Causal Inference Method](https://arxiv.org/abs/2010.11797) (SIGIR 21)
 
