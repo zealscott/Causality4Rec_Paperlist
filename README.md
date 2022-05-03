@@ -5,8 +5,7 @@ This is a list of top papers about causal inference and bias problem in recommen
 ## Table of Contents
 
 - [Survey paper](#Survey-Paper)
-- [Dataset](#dataset)
-- [Robust Learning](#Robust-Learning)
+- [Robust Learning / OOD](#Robust-Learning)
 - [Causality in Computer Vision](#Causality-in-Computer-Vision)
 - [Causality in NLP](#Causality-in-NLP)
 - [Causality in Graph](#Causality-in-Graph)
@@ -23,12 +22,13 @@ This is a list of top papers about causal inference and bias problem in recommen
 
 - [Bias and Debias in Recommender System: A Survey and Future Directions](https://arxiv.org/abs/2010.03240) (TKDE 21)
 
-## Dataset
 
-## Robust Learning
+## Robust Learning / OOD
 
 * [Learning to Reweight Examples for Robust Deep Learning](https://proceedings.mlr.press/v80/ren18a/ren18a.pdf) (ICML 18)
 * [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://proceedings.neurips.cc/paper/2020/file/1091660f3dff84fd648efe31391c5524-Paper.pdf) (NIPS 20)
+* [CASTLE: Regularization via Auxiliary Causal Graph Discovery](https://www.vanderschaar-lab.com/papers/NeurIPS2020_CASTLE.pdf) (NIPS 20)
+* [Asymmetry Learning for Counterfactually-invariant Classification in OOD Tasks](https://openreview.net/forum?id=avgclFZ221l) (ICLR 22)
 
 
 ## Causality in Computer Vision
@@ -36,6 +36,10 @@ This is a list of top papers about causal inference and bias problem in recommen
 ## Causality in NLP
 
 ## Causality in Graph
+
+* [Should Graph Convolution Trust Neighbors? A Simple Causal Inference Method](https://arxiv.org/abs/2010.11797) (SIGIR 21)
+* [Discovering Invariant Rationales for Graph Neural Networks](https://openreview.net/forum?id=hGXij5rfiHw) (ICLR 22)
+
 
 ## Causality in Recommender System
 
@@ -46,6 +50,8 @@ This is a list of top papers about causal inference and bias problem in recommen
 * [ESAM: Discriminative domain adaptation with non-displayed items to improve long-tail performance](https://dl.acm.org/doi/abs/10.1145/3397271.3401043) (SIGIR 20)
 * [AutoDebias: Learning to Debias for Recommendation](https://arxiv.org/abs/2105.04170) (SIGIR 21)
 * [Deconfounded Recommendation for Alleviating Bias Amplification](https://arxiv.org/pdf/2105.10648) (KDD 21)
+* [CausPref: Causal Preference Learning for Out-of-Distribution Recommendation](https://arxiv.org/abs/2202.03984) (WWW 22)
+* [Causal Representation Learning for Out-of-Distribution Recommendation](https://dl.acm.org/doi/10.1145/3485447.3512251) (WWW 22)
 
 ### Exposure Bias
 
@@ -69,5 +75,4 @@ This is a list of top papers about causal inference and bias problem in recommen
 
 * [Counterfactual Explanations for Neural Recommenders](https://arxiv.org/abs/2105.05008) (SIGIR 21)
 * [CauseRec: Counterfactual User Sequence Synthesis for Sequential Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462908) (SIGIR 21)
-* [Should Graph Convolution Trust Neighbors? A Simple Causal Inference Method](https://arxiv.org/abs/2010.11797) (SIGIR 21)
-
+* 
